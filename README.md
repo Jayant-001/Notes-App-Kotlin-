@@ -1,13 +1,18 @@
-# Notes-App-Kotlin-
 
-Notes App using Android Studio (Kotlin)
+# Notes App
 
-Use: Handle your daily notes with CRUD operation
+An Android application for note taking.
 
-Tech: Android Studio
 
-Language: Kotlin, XML
+## Features
 
-Database: Room Database
+- Handy / Easy to use.
+- Secure.
+- Saves notes in internal storage.
+# Technologies used
 
-Lifecycle Components, MVVM Architecture
+### Android Studio
+### Language - Kotlin
+### Room database, MVVM architecture, Android Lifecycle
+
+
